@@ -1,4 +1,4 @@
-# CollatzConjecture
+# CollatzConjectureTester
 A tool to check and analyse different numbers and number ranges against Collatz Conjecturs.
 
 # Get started
